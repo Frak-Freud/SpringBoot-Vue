@@ -1,16 +1,14 @@
 # SpringBoot-Vue
 A simple user login management system
 
-
-
-├── SpringBoot.iml
-├── mvnw
-├── mvnw.cmd
-├── pom.xml
-├── springboot.md
-└── src
-    ├── main
-    │   ├── java
+├── SpringBoot.iml  
+├── mvnw  
+├── mvnw.cmd  
+├── pom.xml  
+├── springboot.md  
+└── src  
+    ├── main  
+    │   ├── java  
     │   │   └── com
     │   │       └── example
     │   │           ├── Application.java
